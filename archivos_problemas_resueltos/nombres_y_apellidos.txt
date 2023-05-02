@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Nico
+Apellido: Zarg
+----------
+Nombre: Beni
+Apellido: Zirg
+----------
+Nombre: Ame
+Apellido: Zerg
+----------
+Nombre: Erika
+Apellido: Zorg
+----------
+Nombre: Diego
+Apellido: Zusssrg
+----------
