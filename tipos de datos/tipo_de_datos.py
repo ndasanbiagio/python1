@@ -1,6 +1,6 @@
 "string"
 'string'
-"""tus datos son:
+"""tus datos son: 
     nombre: nico"""
 '''string'''
 

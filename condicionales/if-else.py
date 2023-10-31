@@ -15,11 +15,22 @@
 #     print("no podes pasar")
 
 
-contrasenia_almacenada = "Nico2629"
-contrasenia_escrita = '''Nico2629'''
+# contrasenia_almacenada = "Nico2629"
+# contrasenia_escrita = '''Nico2629'''
 
-if contrasenia_almacenada == contrasenia_escrita:
-    print("Iniciando Sesion...")
+# if contrasenia_almacenada == contrasenia_escrita:
+#     print("Iniciando Sesion...")
+
+# else:
+#     print("Contraseña incorrecta")
+
+
+#Nuevo ejercicio
+
+edad = 10
+
+if edad >= 18:
+    print("Sos mayor de edad")
 
 else:
-    print("Contraseña incorrecta")
+    print("Sos menor de edad")

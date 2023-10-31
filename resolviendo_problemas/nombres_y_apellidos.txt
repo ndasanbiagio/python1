@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Nico
+Apellido: Diego
+-------------
+Nombre: Nico1
+Apellido: Diego1
+-------------
+Nombre: Nico2
+Apellido: Diego2
+-------------
+Nombre: Nico3
+Apellido: Diego3
+-------------
+Nombre: Nico4
+Apellido: Diego4
+-------------

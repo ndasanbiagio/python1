@@ -28,3 +28,8 @@ print('Pepe' not in bienvenida)
 
 print('Nico' in bienvenida)
 # Operadores de PERTENENCIA -> da true porque dice que Nico perteneces a bienvenida
+
+nombreNuevo = "Nico"
+bienvenidaNueva = "Hello" + " " + nombreNuevo + "Como estas???"
+
+print(bienvenidaNueva)

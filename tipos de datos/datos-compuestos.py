@@ -11,3 +11,13 @@ print(tuplas[0])
 # Set -> creando un conjunto
 conjunto = {"Nico", "Diego", True, 1.72}
 print(conjunto)
+
+
+# Diccionario
+diccionario = {
+    'nombre' : "Soy Nico",
+    'canal' : "Youtube",
+    'estado' : True,
+    'situacion' : False
+}
+print(diccionario["nombre"])

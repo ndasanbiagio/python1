@@ -13,7 +13,7 @@ sns.lineplot(x="fecha", y="salidas", data=df)
 
 
 # El ultimo objeto deciamos que usamos una "x" como para marcar un punto especifico
-plt.plot("01-09", 19, "x")
+plt.plot("01-09", 19, "o")
 
 
 # Mostramos el gráfico
