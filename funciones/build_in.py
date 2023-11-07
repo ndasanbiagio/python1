@@ -22,7 +22,3 @@ print(resultado_bool)
 resultado_all = all([234, "True", [344, 23]])
 print(resultado_bool)
 
-
-# Suma todos los valores de un iterable
-suma_total = sum(numeros)
-print(suma_total)
